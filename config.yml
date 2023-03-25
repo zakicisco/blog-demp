@@ -1,0 +1,16 @@
+baseURL: http://zekeria.com
+languageCode: en-us
+title: Zekeria's new website
+theme: PaperMod
+showReadingTime: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+params:
+    ShowReadingTime: true
+    ShowBreadCrumbs: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowCodeCopyButtons: true

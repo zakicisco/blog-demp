@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Zekeria&#39;s new website</title>
+    <link>http://zekeria.com/posts/</link>
+    <description>Recent content in Posts on Zekeria&#39;s new website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2023 16:49:42 +0300</lastBuildDate><atom:link href="http://zekeria.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Zekeria&#39;s Account</title>
+      <link>http://zekeria.com/posts/first-post/</link>
+      <pubDate>Thu, 23 Mar 2023 16:49:42 +0300</pubDate>
+      
+      <guid>http://zekeria.com/posts/first-post/</guid>
+      <description>Syntax Description Header Change Paragraph Text Syntax Description Header Title Paragraph Text Syntax Description Test Text Header Title Here&amp;rsquo;s this Paragraph Text And more { &amp;#34;firstName&amp;#34;: &amp;#34;John&amp;#34;, &amp;#34;lastName&amp;#34;: &amp;#34;Smith&amp;#34;, &amp;#34;age&amp;#34;: 25 } Here&amp;rsquo;s a simple footnote,1 and here&amp;rsquo;s a longer one.2
+The world is flat. We now know that the world is round.
+Write the press release Update the website Contact the media Gone camping! :tent: Be back soon.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
