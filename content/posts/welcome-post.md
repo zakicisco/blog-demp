@@ -7,7 +7,11 @@ tags: ["PaperMod"]
 
 # Welcome to Tropical Blog!
 
-Hey everyone, welcome to my blog! My name is [Your Name], and I'm an IT adventurer. I've been working in the IT world for [Number] years now, and let me tell you, it's been a wild ride. From dealing with angry users to battling stubborn code, I've seen it all. But hey, it's all part of the fun, right?
+[![An old rock in the desert](/img/First-Post.png "Shiprock, New Mexico by Beau Rogers")](https://playgroundai.com/post/cleunovm505v5s6018trp0qj2)
+
+
+
+Hey everyone, welcome to my blog! My name is Zekeria Sammantar, and I'm an IT adventurer. I've been working in the IT world for 11 years now, and let me tell you, it's been a wild ride. From dealing with angry users to battling stubborn code, I've seen it all. But hey, it's all part of the fun, right?
 
 So why "Tropical Blog," you might ask? Well, as much as I love tech, I also love a good beach. And what's more tropical than a blog about IT adventures? Nothing, that's what.
 
