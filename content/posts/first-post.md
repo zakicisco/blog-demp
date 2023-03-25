@@ -1,10 +1,12 @@
 ---
 title: "Welcome to my Website"
 date: 2023-03-23T16:49:42+03:00
-draft: false
+draft: true
 cover:
     #image: img/headphones.jpg
 ---
+:see_no_evil:
+:punch:
 {{< youtube pCPCQgqC8RA >}}
 
 ```goat

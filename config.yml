@@ -1,16 +1,93 @@
-baseURL: http://zekeria.com
+baseURL: https://zekeria.com
 languageCode: en-us
-title: Zekeria's new website
+title: Blog on IT
 theme: PaperMod
 showReadingTime: true
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+# googleAnalytics: UA-123-45
+disqusShortname: zekeria-com
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: WiKi
+                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+                - name: Discord
+                  url: https://discord.gg/ahpmTvhVmp
+
+
+
 outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON # is necessary
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+
+
 params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    author: Zekeria Sammantar
     ShowReadingTime: true
     ShowBreadCrumbs: true
     ShowShareButtons: true
     ShowPostNavLinks: true
     ShowCodeCopyButtons: true
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+    ShowToc: true
+    # comments: false
+    images: ["papermod-cover.png"]
+    homeInfoParams:
+        Title: "Tropical Blog"
+        Content: >
+            Welcome to the ***Tropical Blog***.
+
+            - This website will be used to publish blogs about random topics in IT that maybe of use to anyone.
+
+            - Do give a 🌟 on Github !
+
+            - Website is built ***Hugo*** using PaperMod theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+
+    socialIcons:
+        - name: linkedin
+          url: "https://www.linkedin.com/in/zekeria-sammantar"
+        - name: github
+          url: "https://github.com/zakicisco/blog-demp"
+        - name: Rss
+          url: "index.xml"
