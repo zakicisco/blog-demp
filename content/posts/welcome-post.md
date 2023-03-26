@@ -3,11 +3,13 @@ title: "Welcome Post"
 date: 2023-03-26T01:33:29+03:00
 draft: false
 tags: ["PaperMod"]
+cover:
+    image: img/First-Post.png
 ---
 
 # Welcome to Tropical Blog!
 
-[![An old rock in the desert](/img/First-Post.png "Shiprock, New Mexico by Beau Rogers")](https://playgroundai.com/post/cleunovm505v5s6018trp0qj2)
+<!-- [![An old rock in the desert](/img/First-Post.png "Shiprock, New Mexico by Beau Rogers")](https://playgroundai.com/post/cleunovm505v5s6018trp0qj2) -->
 
 
 

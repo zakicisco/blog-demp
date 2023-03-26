@@ -4,6 +4,7 @@ date: 2023-03-23T16:49:42+03:00
 draft: true
 cover:
     #image: img/headphones.jpg
+tags: ["Intro"]
 ---
 :see_no_evil:
 :punch:

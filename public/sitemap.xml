@@ -2,20 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://zekeria.com/archives/</loc>
+    <loc>https://zekeria.com/</loc>
+    <lastmod>2023-03-26T01:33:29+03:00</lastmod>
   </url><url>
-    <loc>http://zekeria.com/</loc>
+    <loc>https://zekeria.com/tags/papermod/</loc>
+    <lastmod>2023-03-26T01:33:29+03:00</lastmod>
   </url><url>
-    <loc>http://zekeria.com/categories/</loc>
+    <loc>https://zekeria.com/posts/</loc>
+    <lastmod>2023-03-26T01:33:29+03:00</lastmod>
   </url><url>
-    <loc>http://zekeria.com/posts/</loc>
+    <loc>https://zekeria.com/tags/</loc>
+    <lastmod>2023-03-26T01:33:29+03:00</lastmod>
   </url><url>
-    <loc>http://zekeria.com/posts/search/</loc>
+    <loc>https://zekeria.com/posts/welcome-post/</loc>
+    <lastmod>2023-03-26T01:33:29+03:00</lastmod>
   </url><url>
-    <loc>http://zekeria.com/search/</loc>
+    <loc>https://zekeria.com/archives/</loc>
   </url><url>
-    <loc>http://zekeria.com/series/</loc>
+    <loc>https://zekeria.com/categories/</loc>
   </url><url>
-    <loc>http://zekeria.com/tags/</loc>
+    <loc>https://zekeria.com/posts/search/</loc>
+  </url><url>
+    <loc>https://zekeria.com/search/</loc>
+  </url><url>
+    <loc>https://zekeria.com/series/</loc>
   </url>
 </urlset>

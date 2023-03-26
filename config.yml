@@ -11,7 +11,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: UA-123-45
+googleAnalytics: G-LQXCHHJ2EK
 disqusShortname: zekeria-com
 minify:
     disableXML: true
@@ -36,10 +36,10 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: WiKi
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-                - name: Discord
-                  url: https://discord.gg/ahpmTvhVmp
+                #- name: WiKi
+                #  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+                - name: Resume
+                  url: https://drive.google.com/file/d/1y_8iXYFsmf4T_pvAisoo7OHfmCLb7yqm/view?usp=share_link
 
 
 
@@ -73,7 +73,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
+    images: ["/img/First-Post.png"]
     homeInfoParams:
         Title: "Tropical Blog"
         Content: >
